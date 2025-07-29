@@ -1,0 +1,32 @@
+/* div{
+    color: rgb(64, 87, 74);
+}
+#test{
+    color: rgb(207, 93, 146);
+}
+.x{
+    color: #663399;
+} */
+#services h1{
+    text-align: center;
+    letter-spacing: 20px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+#services h4{
+    text-align-last: center;
+    text-align: justify;
+    text-indent: 20px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);   
+}
+body{
+    height: 4000px;
+}
+#tenet {
+    height: 25rem;
+    background-image: url('200724152735-tenet-movie-still.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+}
